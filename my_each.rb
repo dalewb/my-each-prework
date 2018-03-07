@@ -6,4 +6,4 @@ def my_each(array)
   end 
 end
 
-my_each(test) {|i| i * 2}
+# my_each(test) {|i| i * 2}
